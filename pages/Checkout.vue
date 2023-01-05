@@ -44,7 +44,7 @@ export default {
       data: {
         email: "",
         name: "",
-        phone: "",
+        phone: " ",
         street: "",
         state: "",
         zip: ""
